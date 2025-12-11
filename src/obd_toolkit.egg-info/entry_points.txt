@@ -1,0 +1,2 @@
+[console_scripts]
+obd-toolkit = obd_toolkit.cli:app
